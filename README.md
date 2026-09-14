@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**dhruvsolankiextendstyler/dhruvsolankiextendstyler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# DHRUV SOLANKI
 
-Here are some ideas to get you started:
+### CS STUDENT · DEVELOPER · BUILDER
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`BUILD` · `EXPLORE` · `LEARN` · `REPEAT`
+
+</div>
+
+---
+
+> **SYSTEM STATUS**
+>
+> 🟢 **ONLINE**
+>
+> Currently building practical projects and exploring full-stack development, databases, and new technologies.
+
+---
