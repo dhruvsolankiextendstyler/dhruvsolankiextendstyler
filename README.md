@@ -2,8 +2,12 @@
 
 # Dhruv Solanki
 
-**CS student & developer building practical projects.**
+**CS student & developer building practical projects.**  
 Exploring full-stack development, databases, and new technologies.
+
+[![Portfolio](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://dhruv-solanki-about.vercel.app/)
+
+<br>
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-10B981?style=for-the-badge&labelColor=0D1117)
 ![Focus](https://img.shields.io/badge/FOCUS-FRONTEND_%2F_DATABASES-10B981?style=for-the-badge&labelColor=0D1117)
@@ -20,10 +24,10 @@ Exploring full-stack development, databases, and new technologies.
 
 ### Projects
 
-**BreakBite**
+**BreakBite**  
 Canteen ordering app.
 
-**Curriculum Feedback Form**
+**Curriculum Feedback Form**  
 Group project built for college.
 
 ---
@@ -65,9 +69,9 @@ Coding  ·  Music  ·  Reading  ·  Coffee
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=10B981)](https://dhruv-solanki-about.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=10B981)](https://www.linkedin.com/in/dhruv-solanki-ds1971/)
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=10B981)](https://www.instagram.com/heady.dhruv/)
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=10B981)](mailto:dhruvds1971@gmail.com)
 
 </div>
-
